@@ -16,6 +16,9 @@ Includes regression model code and plots used for analysis and for our research 
 ## [www/html](./www/html)
 Includes HTML code for our website.
 
+## [api](./api)
+Includes the FastAPI code which serves as the backend for our web application
+
 <br>
 
 ### Contributors
